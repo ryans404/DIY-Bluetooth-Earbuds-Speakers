@@ -4,13 +4,13 @@ This guide will walk you through turning any wired audio device into a Bluetooth
 
 🔧 What You Need
 
-Raspberry Pi 1 (Model B or B+)
-USB Bluetooth dongle
-Aux cable (3.5mm to 3.5mm) or wired earbuds/headphones
-USB power cable (micro-USB, 2A power supply)
-SD card (8GB+, Class 10 recommended)
-Computer to prepare SD card
-Keyboard and monitor (temporary, just for setup)
+* Raspberry Pi 1 (Model B or B+)
+* USB Bluetooth dongle
+* Aux cable (3.5mm to 3.5mm) or wired earbuds/headphones
+* USB power cable (micro-USB, 2A power supply)
+* SD card (8GB+, Class 10 recommended)
+* Computer to prepare SD card
+* Keyboard and monitor (temporary, just for setup)
 
 
 📀 Part 1: Prepare SD Card
